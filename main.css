@@ -502,13 +502,7 @@ main {
     height: 100%;
 }
 
-.content-down-body .bg-product:nth-child(1) .product>div:nth-child(1) {
-    background-position: 50% 50%;
-    background-image: url('asess/s2/up/hinh-1-8.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    /* background-color: #0c81ff; */
-}
+
 
 .section-4 .content-down-body .bg-product:nth-child(1) .product>div:nth-child(1) {
     background-position: 50% 50%;
@@ -547,33 +541,7 @@ main {
     background-repeat: no-repeat;
 }
 
-.content-down-body .bg-product:nth-child(2) .product>div:nth-child(1) {
-    background-position: 50% 50%;
-    background-image: url('asess/s2/up/BAA-1-1.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    /* background-color: #0c81ff; */
-}
-
-.content-down-body .bg-product:nth-child(3) .product>div:nth-child(1) {
-    background-position: 50% 50%;
-    background-image: url('asess/s3/Asset-1-1.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    /* background-color: #0c81ff; */
-}
-
-.content-down-body .bg-product:nth-child(3) .product>div:nth-child(1) {
-    background-position: 50% 50%;
-    background-image: url('asess/s2/up/4-GEMILAI-CRM-3200B.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    /* background-color: #0c81ff; */
-}
-
-
-
-.content-down-body .bg-product:nth-child(4) .product>div:nth-child(1) {
+.section-2 .content-down-body .bg-product:nth-child(1) .product>div:nth-child(1) {
     background-position: 50% 50%;
     background-image: url('asess/s2/up/11.-CASADIO-UNDICI-A1-GROUP.jpg');
     background-size: contain;
@@ -581,9 +549,81 @@ main {
     /* background-color: #0c81ff; */
 }
 
-.content-down-body .bg-product:nth-child(5) .product>div:nth-child(1) {
+.section-2 .content-down-body .bg-product:nth-child(2) .product>div:nth-child(1) {
     background-position: 50% 50%;
     background-image: url('asess/s2/up/hinh-1-8.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+
+
+.section-2 .content-down-body .bg-product:nth-child(3) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s2/up/BAA-1-1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+
+
+.section-2 .content-down-body .bg-product:nth-child(4) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s2/up/4-GEMILAI-CRM-3200B.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+.section-2 .content-down-body .bg-product:nth-child(5) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s2/up/11.-CASADIO-UNDICI-A1-GROUP.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+.section-3 .content-down-body .bg-product:nth-child(1) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s3/lamarzstrad1gr2jpg-300x300.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+.section-3 .content-down-body .bg-product:nth-child(2) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s3/1-11-300x225.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+
+
+.section-3 .content-down-body .bg-product:nth-child(3) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s3/LaMarzocco-Linea-PB-2-Group-MP-300x225.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+
+
+.section-3 .content-down-body .bg-product:nth-child(4) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s3/5-7-300x225.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #0c81ff; */
+}
+
+.section-3 .content-down-body .bg-product:nth-child(5) .product>div:nth-child(1) {
+    background-position: 50% 50%;
+    background-image: url('asess/s3/1-8-300x225.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     /* background-color: #0c81ff; */
