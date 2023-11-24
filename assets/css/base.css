@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+:root {
+    --white-color: #fff;
+    --red-color: #d83131;
+    --main-color: #f8b93b;
+    --text-color: #1f1e1e;
+    --extra-color: #58271c;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: sans-serif;
+    line-height: 1.6rem;
+    box-sizing: border-box;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.absolute {
+    position: relative;
+}

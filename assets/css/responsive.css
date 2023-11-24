@@ -1,0 +1,158 @@
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    html {
+        font-size: 57%;
+
+    }
+
+    .show-on-tablet {
+        display: block;
+    }
+
+    .hide-on-tablet {
+        display: none;
+    }
+
+
+    .header-black-friday-img {
+        height: 30px;
+        background-color: rgb(64 91 124);
+        display: flex;
+        align-items: center;
+    }
+
+    .gift .input-sdt button {
+        line-height: 21px;
+    }
+}
+
+/* mobile and tablet */
+@media (max-width: 1023px) {
+
+    .hide-on-mobile-tablet {
+        display: none;
+    }
+
+    .show-on-mobile-tablet {
+        display: block;
+    }
+
+
+    .header-main-content {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .header-main__shearch {
+
+        padding: 0 10px;
+        box-shadow: 0 0 4px rgb(97, 96, 96);
+        border-radius: 20px;
+        overflow: hidden;
+        height: 40px;
+    }
+
+    .header-main__shearch label {
+
+        opacity: 1;
+        padding: 12px 16px;
+        background-color: var(--main-color);
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    .header-main__shearch label i {
+        color: white;
+
+    }
+
+    .header-main__shearch input {
+
+        line-height: 40px;
+    }
+}
+
+/* mobile */
+@media (max-width: 739px) {
+    html {
+        font-size: 50%;
+
+    }
+
+    .padding-on-mobile {
+        padding: 0 10px;
+    }
+
+    .margin-on-mobile {
+        margin: 0 10px;
+    }
+
+    .hide-on-mobile {
+        display: none;
+    }
+
+    .show-on-mobile {
+        display: none;
+    }
+
+    .black-friday-img-mobile-tablet {
+        display: block;
+    }
+
+    .black-friday-img-pc {
+        display: none;
+    }
+
+    .list-category-slider {
+        transform: scale(0.7);
+        -webkit-transform: scale(0.7);
+        -moz-transform: scale(0.7);
+        -ms-transform: scale(0.7);
+        -o-transform: scale(0.7);
+    }
+
+    .gift .title-gift {
+
+        font-size: 1.6rem;
+
+    }
+
+    .gift .input-sdt input {
+        width: 300px;
+
+    }
+
+    .frame__seemore {
+        padding: 5px 50px;
+    }
+
+    .content-area {
+        padding: 0;
+    }
+
+    .khung-doi-tac {
+        transform: scale(.7);
+        -webkit-transform: scale(.7);
+        -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+        -o-transform: scale(.7);
+    }
+
+    .infor-company,
+    .text-footer,
+    .tu-van {
+        padding: 0 10px;
+    }
+
+
+}
+
+
+
+
+/* PC */
+@media (min-width: 1024px) {
+    .hide-on-pc {
+        display: none;
+    }
+}
