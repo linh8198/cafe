@@ -30,3 +30,20 @@ html {
 .absolute {
     position: relative;
 }
+
+.mb-3 {
+    margin-bottom: 1.8rem;
+}
+
+.mb-2 {
+    margin-bottom: 1.6rem;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+.color-blue {
+    color: #3a99fe;
+    font-weight: 400;
+}
